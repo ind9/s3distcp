@@ -1,5 +1,10 @@
-*.class
+# Idea Project Folders
+.DS_Store
+.idea/
+*.iml
+target/
 
+*.class
 # Package Files #
 *.jar
 *.war
